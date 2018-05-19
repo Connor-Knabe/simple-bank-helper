@@ -1,0 +1,11 @@
+{
+  "name": "simple-bank-helper",
+  "version": "0.0.1",
+  "description": "To search through transaction history from simple.com bank to gather monthly data based on goals",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor Knabe",
+  "license": "MIT"
+}
